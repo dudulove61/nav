@@ -12,23 +12,23 @@
       logo:  https://img.deebian.com/file/e1548f69c7adc9d429394.png
       url: https://kjgx668.blogspot.com/
       description: Deebian图床
+    - title: 谷歌
+      qrcode: images/logos/google.png
+      logo:
+      url: https://g.deebian.com/
+      description: google搜索
     - title: 赛博大善人
       qrcode:  
       logo: images/logos/channels4_profile.jpg
       url: https://www.cloudflare-cn.com/
       description: cloudflare
+    - title: YouTube
+      logo:  images/logos/youtube.png
+      url: https://app.xintaifree.com?from=5431/
+      description: YouTube
     - title: 查询您的IP地址
       url: https://ip111.cn/
       description: ip查询
-    - title: 美国虚拟卡
-      qrcode: images/qrcodes/usdt.png
-      logo:
-      url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
-      description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 礼品卡/兑换码
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
     - title: Telegram
       logo: 
       url: https://t.me/kjgxZY/
