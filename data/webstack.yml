@@ -13,8 +13,8 @@
       url: https://kjgx668.blogspot.com/
       description: Deebian图床
     - title: 谷歌
-      qrcode: images/logos/google.png
-      logo:
+      qrcode: 
+      logo:images/logos/google.png
       url: https://g.deebian.com/
       description: google搜索
     - title: 赛博大善人
@@ -23,8 +23,8 @@
       url: https://www.cloudflare-cn.com/
       description: cloudflare
     - title: YouTube
-      logo:  images/logos/youtube.png
-      url: https://app.xintaifree.com?from=5431/
+      logo:  images/logos/youtube.jpg
+      url: https://www.youtube.com/
       description: YouTube
     - title: 查询您的IP地址
       url: https://ip111.cn/
