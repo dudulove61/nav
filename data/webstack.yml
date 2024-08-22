@@ -14,7 +14,7 @@
       description: Deebian图床
     - title: 谷歌搜索
       qrcode:  
-      logo:images/logos/google.png
+      logo: images/logos/google.png
       url: https://g.deebian.com/
       description: google搜索
     - title: 赛博大善人
