@@ -7,16 +7,16 @@
       logo: images/logos/deebian.png
       url: https://deebian.com/
       description: Deebian个人博客
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
-    - title: 环球巴士
+    - title: Deebian图床
       qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
-      description: 流媒体影音账号合租平
+      logo:  https://img.deebian.com/file/e1548f69c7adc9d429394.png
+      url: https://kjgx668.blogspot.com/
+      description: Deebian图床
+    - title: 赛博大善人
+      qrcode: 
+      logo: https://img.deebian.com/file/ed9f99509c1957ab4ef37.jpg
+      url: https://www.cloudflare-cn.com/
+      description: cloudflare
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
       description: 支付宝、微信充值，海外消费。
