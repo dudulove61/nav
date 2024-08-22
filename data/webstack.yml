@@ -13,13 +13,13 @@
       url: https://kjgx668.blogspot.com/
       description: Deebian图床
     - title: 赛博大善人
-      qrcode: 
-      logo: https://img.deebian.com/file/ed9f99509c1957ab4ef37.jpg
+      qrcode:  
+      logo: images/logos/channels4_profile.jpg
       url: https://www.cloudflare-cn.com/
       description: cloudflare
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 支付宝、微信充值，海外消费。
+    - title: 查询您的IP地址
+      url: https://ip111.cn/
+      description: ip查询
     - title: 美国虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
