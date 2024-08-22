@@ -23,7 +23,7 @@
       url: https://www.cloudflare-cn.com/
       description: cloudflare
     - title: YouTube
-      logo:  images/logos/youtube.jpg
+      logo:  images/logos/youtube.png
       url: https://www.youtube.com/
       description: YouTube
     - title: 查询您的IP地址
