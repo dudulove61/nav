@@ -29,13 +29,13 @@
     - title: 查询您的IP地址
       url: https://ip111.cn/
       description: ip查询
-    - title: Telegram
-      logo: 
-      url: https://t.me/kjgxZY/
-      description: 科技共享资源频道
-    - title: Telegram群组
-      url: https://t.me/+qf_DtRZ90ys2ZDBl/
-      description: 沟通交流，资源分享
+    - title: Speedtest
+      logo: images/logos/speedtest.png
+      url: https://su.deebian.com/
+      description: 测速
+    - title: 在线Ping
+      url: https://www.itdog.cn/ping/
+      description: 
     - title: 接码平台
       logo:  
       url: https://sms-activate.org/?ref=4312619/
