@@ -59,17 +59,17 @@
       url: https://infini-cloud.net/en/
       description: 极致可靠性自我管理的一体化云存储，保护您的数据。
     - title: pCloud
-      logo: images/logos/36kr.png
+      logo: images/logos/pcloud.png
       url: https://www.pcloud.com/
       description: 免费云空间
     - title: US.KG 免费域名
-      logo: images/logos/digitaling.png
+      logo: images/logos/uskg.jpg
       url: https://us.kg/
-      description: 免费域名
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
+      description: 免费域名注册机构，可托管到cloudflare
+    - title: infinityfree免费虚拟主机
+      logo: images/logos/infinityfree.jpg
+      url: https://www.infinityfree.com/
+      description: infinityfree免费虚拟主机，5G大空间，无限流量，免费SSL，速度快，运行持久！
     - title: 人人都是产品经理
       logo: images/logos/woshipm.png
       url: http://www.woshipm.com/
