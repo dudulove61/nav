@@ -51,21 +51,21 @@
       description: UUID在线生成
     
 
-- taxonomy: 社区咨询
+- taxonomy: Cloud
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
+    - title: 无限云
       logo: images/logos/infini.png
       url: https://infini-cloud.net/en/
-      description: 无限云
-    - title: 36kr
+      description: 极致可靠性自我管理的一体化云存储，保护您的数据。
+    - title: pCloud
       logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
+      url: https://www.pcloud.com/
+      description: 免费云空间
+    - title: US.KG 免费域名
       logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
+      url: https://us.kg/
+      description: 免费域名
     - title: 猎云网
       logo: images/logos/lieyunwang.png
       url: https://www.lieyunwang.com/
