@@ -71,7 +71,7 @@
       url: https://www.infinityfree.com/
       description: infinityfree免费虚拟主机，5G大空间，无限流量，免费SSL，速度快，运行持久！
     - title: WebP Cloud
-      logo: images/logos/woshipm.png
+      logo: 
       url: https://dashboard.webp.se/
       description: 开源的图片加速网站，可以通过提供现代图像格式的图片来加速网站的加载时间
 
