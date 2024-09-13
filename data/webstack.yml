@@ -7,16 +7,15 @@
       logo: images/logos/deebian.png
       url: https://deebian.com/
       description: Deebian个人博客
-    - title: Deebian图床
-      qrcode: 
-      logo:  https://img.deebian.com/file/e1548f69c7adc9d429394.png
-      url: https://kjgx668.blogspot.com/
-      description: Deebian图床
+    - title: YouTube缩略图下载
+      logo: 
+      url: https://www.strerr.com/
+      description: YouTube封面下载
     - title: 谷歌搜索
       qrcode:  
       logo: images/logos/google.png
       url: https://g.deebian.com/
-      description: google搜索
+      description: google搜索镜像站
     - title: 赛博大善人
       qrcode:  
       logo: images/logos/channels4_profile.jpg
