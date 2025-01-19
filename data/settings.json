@@ -12,7 +12,7 @@
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
-  "baiduStatisticsUrl": "",
+  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
@@ -33,13 +33,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://alist.deebian.com//2025/01/19/7699ec2d27ec0d7100944aa613e11d5a",
       "url": "",
       "width": null,
       "height": null
