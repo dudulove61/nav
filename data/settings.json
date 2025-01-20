@@ -16,7 +16,13 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://alist.deebian.com//2025/01/20/5ae23881a3523b77375587acb54eb3b2",
+      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner1.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner2.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -27,7 +33,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "http://img.52desk.com/tp/20076352cd11a45c613ed25013abc0dc.jpg",
+      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner2.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner1.jpg",
       "url": "",
       "width": null,
       "height": null
