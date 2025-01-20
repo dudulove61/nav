@@ -10,8 +10,8 @@
   "theme": "Side",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
-  "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav.deebian.com, All Rights Reserved</div>",
+  "iconfontUrl": "//at.alicdn.com/t/c/font_4809145_auvc9esqf05.js",
   "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
@@ -39,7 +39,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 250,
+  "sideThemeHeight": 175,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
