@@ -16,13 +16,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://alist.deebian.com//2025/01/20/5ae23881a3523b77375587acb54eb3b2",
       "url": "",
       "width": null,
       "height": null
@@ -39,7 +33,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 400,
+  "sideThemeHeight": 700,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
