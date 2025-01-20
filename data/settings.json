@@ -45,12 +45,12 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 350,
+  "sideThemeHeight": 250,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
       "url": "",
       "width": null,
       "height": null
