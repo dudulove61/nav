@@ -10,19 +10,13 @@
   "theme": "Side",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav.deebian.com, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2024-present nav.tox.wang, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/c/font_4809145_auvc9esqf05.js",
   "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner1.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner2.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/dudulove61/nav@image/nav-1739264001637-未标题-1_compressed.webp",
       "url": "",
       "width": null,
       "height": null
@@ -30,23 +24,17 @@
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
   "simThemeHeight": 350,
-  "simThemeAutoplay": true,
+  "simThemeAutoplay": false,
   "sideThemeImages": [
     {
-      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner2.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner1.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/dudulove61/nav@image/nav-1739264020902-未标题-1_compressed.webp",
       "url": "",
       "width": null,
       "height": null
     }
   ],
   "sideThemeHeight": 350,
-  "sideThemeAutoplay": true,
+  "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
